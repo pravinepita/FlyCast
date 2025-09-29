@@ -1,0 +1,51 @@
+file_name,total_rows,valid_rows,invalid_rows,errors
+raw_data_part_1.csv,1246,749,497,Non-numeric values in Price
+raw_data_part_2.csv,920,920,0,
+raw_data_part_3.csv,1346,1201,145,Duplicate rows
+raw_data_part_4.csv,1324,1129,195,Missing values in Destination; Duplicate rows; Invalid date format in Date_of_Journey
+raw_data_part_5.csv,963,656,307,Duplicate rows; Non-numeric values in Total_Stops; Missing values in Destination
+raw_data_part_6.csv,1414,1414,0,
+raw_data_part_7.csv,1207,1207,0,
+raw_data_part_8.csv,845,741,104,Missing values in Destination; Non-numeric values in Price; Duplicate rows
+raw_data_part_9.csv,1407,1407,0,
+raw_data_part_10.csv,1478,1043,435,Non-numeric values in Total_Stops; Missing values in Destination
+raw_data_part_11.csv,1409,1173,236,Non-numeric values in Price
+raw_data_part_12.csv,1296,927,369,Invalid date format in Date_of_Journey; Non-numeric values in Total_Stops
+raw_data_part_13.csv,916,859,57,Invalid date format in Date_of_Journey
+raw_data_part_14.csv,1106,809,297,Invalid date format in Date_of_Journey
+raw_data_part_15.csv,1410,1410,0,
+raw_data_part_16.csv,1090,808,282,Non-numeric values in Total_Stops; Non-numeric values in Price; Missing values in Destination
+raw_data_part_17.csv,1295,1295,0,
+raw_data_part_18.csv,1198,1129,69,Invalid date format in Date_of_Journey; Duplicate rows; Non-numeric values in Total_Stops
+raw_data_part_19.csv,885,885,0,
+raw_data_part_20.csv,875,585,290,Non-numeric values in Total_Stops
+raw_data_part_21.csv,1340,1340,0,
+raw_data_part_22.csv,1287,1287,0,
+raw_data_part_23.csv,862,862,0,
+raw_data_part_24.csv,1193,1193,0,
+raw_data_part_25.csv,1369,1369,0,
+raw_data_part_26.csv,1072,1053,19,Non-numeric values in Total_Stops; Missing values in Destination; Non-numeric values in Price
+raw_data_part_27.csv,1139,897,242,Non-numeric values in Price; Invalid date format in Date_of_Journey
+raw_data_part_28.csv,823,499,324,Non-numeric values in Total_Stops
+raw_data_part_29.csv,1198,1198,0,
+raw_data_part_30.csv,1474,1286,188,Missing values in Destination
+raw_data_part_31.csv,1019,912,107,Non-numeric values in Price
+raw_data_part_32.csv,1266,1173,93,Missing values in Destination; Non-numeric values in Price; Non-numeric values in Total_Stops
+raw_data_part_33.csv,1205,900,305,Invalid date format in Date_of_Journey; Non-numeric values in Price; Missing values in Destination
+raw_data_part_34.csv,1141,1141,0,
+raw_data_part_35.csv,1202,764,438,Non-numeric values in Total_Stops
+raw_data_part_36.csv,1185,970,215,Non-numeric values in Price; Invalid date format in Date_of_Journey; Duplicate rows
+raw_data_part_37.csv,979,814,165,Missing values in Destination; Duplicate rows; Non-numeric values in Total_Stops
+raw_data_part_38.csv,1479,1479,0,
+raw_data_part_39.csv,1146,739,407,Non-numeric values in Price; Duplicate rows
+raw_data_part_40.csv,907,907,0,
+raw_data_part_41.csv,1286,1286,0,
+raw_data_part_42.csv,1478,1478,0,
+raw_data_part_43.csv,1177,786,391,Non-numeric values in Price; Invalid date format in Date_of_Journey
+raw_data_part_44.csv,1170,891,279,Duplicate rows
+raw_data_part_45.csv,885,843,42,Non-numeric values in Total_Stops; Invalid date format in Date_of_Journey; Missing values in Destination
+raw_data_part_46.csv,840,669,171,Non-numeric values in Total_Stops; Missing values in Destination; Non-numeric values in Price
+raw_data_part_47.csv,995,926,69,Non-numeric values in Total_Stops; Missing values in Destination
+raw_data_part_48.csv,1168,842,326,Invalid date format in Date_of_Journey; Non-numeric values in Total_Stops
+raw_data_part_49.csv,1229,1229,0,
+raw_data_part_50.csv,1269,1023,246,Non-numeric values in Price

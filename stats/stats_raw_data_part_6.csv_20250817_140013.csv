@@ -1,0 +1,2 @@
+file_name,total_rows,valid_rows,invalid_rows,errors
+raw_data_part_6.csv,934,-1043,1977,Unknown values in Destination: 64; Non-numeric values in Total_Stops: 934; Invalid date format in Date_of_Journey: 934; Duplicate rows: 45
