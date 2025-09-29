@@ -1,4 +1,4 @@
-# ✈️ SkyFareCast – Flight Price Prediction System
+# ✈️ FlyCast – Flight Price Prediction System
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-orange?logo=streamlit)
@@ -7,7 +7,7 @@
 ![Grafana](https://img.shields.io/badge/Monitoring-Grafana-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-SkyFareCast is a **flight price prediction system** that predicts flight ticket prices, automates scheduled predictions, and provides a monitoring dashboard for model performance and data quality. It combines **user interactivity**, **API endpoints**, **scheduled jobs**, and **visual analytics** in one end-to-end solution.
+FlyCast is a **flight price prediction system** that predicts flight ticket prices, automates scheduled predictions, and provides a monitoring dashboard for model performance and data quality. It combines **user interactivity**, **API endpoints**, **scheduled jobs**, and **visual analytics** in one end-to-end solution.
 
 > 🚀 Built with 💡 curiosity, ✈️ passion for travel, and 🧠 applied machine learning!  
 
@@ -142,8 +142,8 @@ SkyFareCast/
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/aswinroshanportfolio/SkyFareCast.git
-cd SkyFareCast
+git clone link ssh
+cd flycast
 ```
 
 ### **2. Set up Python environment**
@@ -207,10 +207,10 @@ It’s an excellent example of production-ready ML pipelines integrating Python,
 
 ## 🙋‍♂️ About Me
 
-**Aswin Roshan Rajendran**  
+**Pravin Selvam**  
 🎓 Master's in Data Science & Analytics, **EPITA**, Paris  
 📍 Paris, France  
-📫 [aswinroshan17@gmail.com](mailto:aswinroshan17@gmail.com)
+
 
 ---
 
