@@ -43,17 +43,17 @@ FlyCast is a **flight price prediction system** that predicts flight ticket pric
 ### Streamlit App
 | Streamlit UI 1 | Streamlit UI 2 | Streamlit UI 3 |
 |----------------|----------------|----------------|
-| ![Streamlit 1](https://github.com/aswinroshanrajendran/SkyFareCast/blob/main/images/streamlit%20-1.png) | ![Streamlit 2](https://github.com/aswinroshanrajendran/SkyFareCast/blob/main/images/streamlit%20-%202.png) | ![Streamlit 3](https://github.com/aswinroshanrajendran/SkyFareCast/blob/main/images/streamlit%20-%203.png) |
+| ![Streamlit 1](https://github.com/pravinepita/FlyCast/blob/main/images/streamlit%20-1.png) | ![Streamlit 2](https://github.com/pravinepita/FlyCast/blob/main/images/streamlit%20-%202.png) | ![Streamlit 3](https://github.com/pravinepita/FlyCast/blob/main/images/streamlit%20-%203.png) |
 
 ### FastAPI Predictions
 | FastAPI Prediction |
 |------------------|
-| ![FastAPI](https://github.com/aswinroshanrajendran/SkyFareCast/blob/main/images/Fast%20api%20-%201.png) |
+| ![FastAPI](https://github.com/pravinepita/FlyCast/blob/main/images/Fast%20api%20-%201.png) |
 
 ### Airflow DAGs
 | Data Ingestion DAG | Prediction DAG |
 |------------------|----------------|
-| ![Airflow Ingestion](https://github.com/aswinroshanrajendran/SkyFareCast/blob/main/images/Airflow%20-%201.png) | ![Airflow Prediction](https://github.com/aswinroshanrajendran/SkyFareCast/blob/main/images/Airflow%20-%202.png) |
+| ![Airflow Ingestion](https://github.com/pravinepita/FlyCast/blob/main/images/Airflow%20-%201.png) | ![Airflow Prediction](https://github.com/pravinepita/FlyCast/blob/main/images/Airflow%20-%202.png) |
 
 ### PostgreSQL Database (Predictions Storage)
 | Database Screenshot 1 | Database Screenshot 2 |
@@ -63,7 +63,7 @@ FlyCast is a **flight price prediction system** that predicts flight ticket pric
 ### Grafana Dashboards
 | Pie Chart | Bar Chart |
 |-----------|-----------|
-| ![Grafana Pie](https://github.com/aswinroshanrajendran/SkyFareCast/blob/main/images/grafana%20-%201.png) | ![Grafana Bar](https://github.com/aswinroshanrajendran/SkyFareCast/blob/main/images/grafana%20-%201.png) |
+| ![Grafana Pie](https://github.com/pravinepita/FlyCast/blob/main/images/pg%20-%201.png) | ![Grafana Bar](https://github.com/pravinepita/FlyCast/blob/main/images/pg%20-%202.png) |
 
 ---
 
